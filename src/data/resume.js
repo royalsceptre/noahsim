@@ -94,15 +94,15 @@ const resumeEducation = [
 const resumePersonalInfo = [
   {
     title: "Location",
-    description: "28 Aliwal Street, Singapore"
+    description: "4047 Ontario St E, Montreal"
   },
   {
     title: "E-mail",
-    description: <a href="mailto:topdev1232022@gmail.com">topdev1232022@gmail.com</a>
+    description: <a href="mailto:noahsim0808@gmail.com">noahsim0808@gmail.com</a>
   },
   {
     title: "Portfolio",
-    description: <a href="https://jiangsim.pages.dev/">jiangsim.pages.dev</a>
+    description: <a href="https://noahsim.vercel.app/">noahsim.vercel.app</a>
   },
   {
     title: "LinkedIn",
@@ -115,7 +115,7 @@ const resumePersonalInfo = [
   {
     title: "Github",
     description: (
-      <a href="https://github.com/perfectdevelop">github.com/perfectdevelop</a>
+      <a href="https://github.com/royalsceptre">github.com/royalsceptre</a>
     )
   }
 ];

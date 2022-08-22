@@ -80,7 +80,7 @@ function MainNav({ openNav, showHamburger, sectionRefs }) {
         />
         <SocialLink
           type="Github"
-          href="https://github.com/perfectdevelop"
+          href="https://github.com/royalsceptre"
           width="20px"
           height="20px"
         />

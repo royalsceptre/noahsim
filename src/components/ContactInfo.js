@@ -38,9 +38,9 @@ function ContactInfo() {
           display: inline-block;
           margin-bottom: 30px;
         `}
-        href="mailto:topdev1232022@gmail.com"
+        href="mailto:noahsim0808@gmail.com"
       >
-        topdev1232022@gmail.com
+        noahsim0808@gmail.com
       </a>
       <br />
       <div className={css`display: flex`}>
@@ -55,7 +55,7 @@ function ContactInfo() {
           <SocialLink
             className={anchorStyle}
             type="Github"
-            href="https://github.com/perfectdevelop"
+            href="https://github.com/royalsceptre"
             width="32px"
             height="32px"
           />
@@ -68,7 +68,7 @@ function ContactInfo() {
           />
         </div>
         <div>
-          <img src="https://www.google.com/maps/vt/data=z_ICALad_K13LiGa0VvdUXWikoLwcJY7LzTEohjBClcRsNozGjldl9SHVkuIO_Jz4pnbW9ynjilhMa2N-trWFaCeGw--c-2fofsjd7yZppm2WAmYbJyX5QozNYSQxQdkYW3MukUpxv2rRMUFEZTQJEZzqbLRTzkyVTs4wJLJCpRqMU_Mhm6SmVb0BqGK3W7RaCwzee0Y7L83Mjw_czNA9lSor8zsO5cqRZrmDjT1drQsOiQbmBSz" alt="Map of Kharkiv" style={{width: "300px"}}/>
+          <img src="https://www.google.com/maps/vt/data=O05OQ_RZn95UoXBBTOFZ0Q7vH0cPZaRWGLDaUCF1XZ6x-dlWuG63sz527WYb41qp-QEKjON0CDRZwNUYq41gt95uUL0wlO20RMGMB27ddu6eAa--f7HSBo7cTJtdizLR0SAD3kBCPqk3JTvU-iwXj-TtJZIm9mV6Kxx0PTIEPsPorY4o5SfAbVV1WDxrXJRSVIc6IEEBXr5snt1V8hvtQgJ2pqiSORbnQXrhcItbGJ050dY" alt="Map of Montreal" style={{width: "300px"}}/>
         </div>
       </div>
     </React.Fragment>

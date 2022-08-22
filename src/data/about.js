@@ -12,8 +12,8 @@ const education = [
 const hobbies = ["Fitness", "Guitar", "Video Games", "TV, Movies, & Music"];
 
 const myJourneyParagraphs = [
-  "Hi, my name is Aron Chupa. I’m a web developer based in Ukraine.",
-  "I grew up in Kharkov where I worked as a freelance software developer. After taking on several programming jobs, including a massive project creating business software for a local company, I decided to start learning web development. The more I learned, the more I realized how fun and exciting it had become. Many different types of complex applications that could have only existed as desktop software in the past were now possible on the web. I started imagining what the future could bring and the possibilities seemed endless. I knew at that moment, that I wanted to become a part of this constantly growing and evolving field.",
+  "Hi, my name is Noah Sim. I’m a web developer based in Canada.",
+  "I grew up in Quebec where I worked as a freelance software developer. After taking on several programming jobs, including a massive project creating business software for a local company, I decided to start learning web development. The more I learned, the more I realized how fun and exciting it had become. Many different types of complex applications that could have only existed as desktop software in the past were now possible on the web. I started imagining what the future could bring and the possibilities seemed endless. I knew at that moment, that I wanted to become a part of this constantly growing and evolving field.",
   "Web development quickly become my primary focus and passion, where I continue learning every day and seeking out new challenges."
 ];
 

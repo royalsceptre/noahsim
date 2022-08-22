@@ -1,7 +1,7 @@
 {
-  "name": "jiangsim",
-  "description": "Aaron's portfolio website",
-  "author": "Jiang Sim <jangsim.com> (https://jangsim.pages.dev/)",
+  "name": "noahsim",
+  "description": "Noah's portfolio website",
+  "author": "Noah Sim <noahsim.com> (https://noahsim.vercel.app/)",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

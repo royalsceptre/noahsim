@@ -20,7 +20,7 @@ function Footer() {
           padding: 6px 30px;
         `}
       >
-        Jiang Sim © 2019
+        Noah Sim © 2019
       </div>
     </footer>
   );

@@ -140,7 +140,7 @@ function MobileNav({ open, closeNav, sectionRefs, scrollBarWidth }) {
             />
             <SocialLink
               type="Github"
-              href="https://github.com/perfectdevelop"
+              href="https://github.com/royalsceptre"
               width="24px"
               height="24px"
             />
