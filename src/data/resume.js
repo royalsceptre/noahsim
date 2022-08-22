@@ -2,12 +2,12 @@ import React from "react";
 
 const resumeWorkHistory = [
   {
-    title: "Freelance Web Development & Lead Developer, 2016-Present",
+    title: "Web Development & Lead Developer, 2016-Present",
     description:
       "Full-stack development, DevOps, specializing in React and Node based websites."
   },
   {
-    title: "Freelance Programmer & Computer Technician, 2011-2018",
+    title: "Programmer & Computer Technician, 2012-2015",
     description:
       "Custom programming (Windows software), static websites, computer repair, and technical support."
   }
